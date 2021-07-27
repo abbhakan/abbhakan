@@ -1,7 +1,7 @@
 [![Header](https://raw.githubusercontent.com/abbhakan/abbhakan/master/readme_header.png "Header")](https://sessionize.com/hakan-silfvernagel/)
 
 # Hi there 👋 I'm Håkan Silfvernagel
-#### I am a Microsoft AI MVP, Microsoft Certified Trainer, and a Public Speaker.
+#### I am a Microsoft AI MVP, a Microsoft Certified Trainer, and a Public Speaker.
 ***Curious by nature with a passion for solving problems. Sometimes involving code…***
 
 <p align="right"> <a href="https://twitter.com/agrevlis" target="blank"><img src="https://img.shields.io/twitter/follow/agrevlis?logo=twitter&style=for-the-badge" alt="agrevlis" /></a> </p>
@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sessionize.com/hakan-silfvernagel/ target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1264888975275196416/LoIfwszV_400x400.jpg" alt="hakansilfvernagel" height="30" width="40" /></a>
-<a href="https://twitter.com/agrevlis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrevlis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakansilfvernagel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakansilfvernagel" height="30" width="40" /></a>
+<a href="https://sessionize.com/hakan-silfvernagel/" target="_blank"><img align="center" src="https://pbs.twimg.com/profile_images/1264888975275196416/LoIfwszV_400x400.jpg" alt="hakansilfvernagel" height="30" width="40" /></a>
+<a href="https://twitter.com/agrevlis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="agrevlis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hakansilfvernagel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakansilfvernagel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Awards and Certifications</h3>
